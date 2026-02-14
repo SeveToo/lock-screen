@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Blokada Ekranu</h1>
-  <a target="_blank" href="https://sevetoo.github.io/lockScreen/">
+  <a target="_blank" href="https://sevetoo.github.io/lock-screen/">
   <img src="./preview.png" alt="Blokada Ekranu" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/lockScreen/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/lock-screen/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/lockScreen?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/lock-screen?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/lockScreen?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/lock-screen?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/lockScreen?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/lock-screen?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/lockScreen?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/lock-screen?color=56BEB8">
 </p>
 
 <p align="center">
@@ -53,12 +53,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/lockScreen/
+https://sevetoo.github.io/lock-screen/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/lockScreen/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/lock-screen/" >click link</a> )
 
 ## 😎 Made by
 
